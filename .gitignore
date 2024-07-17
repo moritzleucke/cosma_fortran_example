@@ -1,0 +1,5 @@
+slurm.*
+*.o
+*.mod
+test
+*.i90
